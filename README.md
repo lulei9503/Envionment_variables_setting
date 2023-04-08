@@ -1,9 +1,9 @@
 # Envionment_variables_setting
 Envionment variables setting for windows
 
-❤Put the file into the folder root directory for execution.❤
+❤Put the file into the root directory of java or python for execution.❤
 
-❤将文件放入文件夹根目录执行。❤
+❤将文件放入java或python的根目录下执行。❤
 
 Easy to set environment variables and to switch between different versions of java or python.
 
